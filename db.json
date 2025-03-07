@@ -1,0 +1,35 @@
+{
+    "dungeons": [
+      {
+        "id": "dungeon1",
+        "name": "Dragon's Lair",
+        "image": "https://cdn.pixabay.com/photo/2024/12/21/16/47/ai-generated-9282542_1280.png",
+        "puzzles": [
+          { "id": "p1", "name": "Fire Trap", "image": "https://cdn.pixabay.com/photo/2023/02/07/10/49/ai-generated-7773820_1280.jpg" },
+          { "id": "p2", "name": "Hidden Door", "image": "https://cdn.pixabay.com/photo/2017/09/15/02/22/fantasy-2750995_1280.jpg" }
+        ]
+      },
+      {
+        "id": "dungeon2",
+        "name": "Ghost Castle",
+        "image": "https://cdn.pixabay.com/photo/2024/04/18/09/29/ai-generated-8703888_1280.jpg",
+        "puzzles": [
+          { "id": "p3", "name": "Mirror Maze3", "image": "https://cdn.pixabay.com/photo/2017/02/04/12/51/labyrinth-2037286_1280.jpg" },
+          { "id": "p4", "name": "Mirror Maze4", "image": "https://cdn.pixabay.com/photo/2020/11/23/03/13/maze-5768511_1280.jpg" },
+          { "id": "p5", "name": "Mirror Maze5", "image": "https://cdn.pixabay.com/photo/2014/10/31/21/56/maze-511151_1280.jpg" },
+          { "id": "p6", "name": "Mirror Maze6", "image": "https://cdn.pixabay.com/photo/2015/09/02/15/47/maze-919271_1280.jpg" },
+          { "id": "p7", "name": "Mirror Maze7", "image": "https://cdn.pixabay.com/photo/2019/09/14/20/11/hedge-4476859_1280.jpg" },
+          { "id": "p8", "name": "Mirror Maze8", "image": "https://cdn.pixabay.com/photo/2021/06/29/15/53/moon-6374470_1280.jpg" }
+        ]
+      },
+      {
+        "id": "dungeon3",
+        "name": "Dark Meadow",
+        "image": "https://cdn.pixabay.com/photo/2014/07/23/00/56/moon-399834_1280.jpg",
+        "puzzles": [
+          { "id": "p9", "name": "Bad Boy", "image": "https://cdn.pixabay.com/photo/2017/09/21/19/34/bad-boy-2773131_1280.jpg" },
+          { "id": "p10", "name": "Good Girl", "image": "https://cdn.pixabay.com/photo/2024/03/03/12/40/girl-8610360_1280.jpg" }
+        ]
+      }
+    ]
+  }
